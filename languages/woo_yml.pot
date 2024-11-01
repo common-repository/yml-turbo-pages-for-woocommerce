@@ -1,0 +1,113 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: YML Turbo Pages for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-09 09:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.3"
+
+#. Name of the plugin
+msgid "YML Turbo Pages for WooCommerce"
+msgstr ""
+
+#. Description of the plugin
+msgid "The plugin generates the YML file necessary for Yandex services."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://treustrasse.ru/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Gleb Varganov"
+msgstr ""
+
+msgid ""
+"For export you need to install <a href=\"https://wordpress."
+"org/plugins/woocommerce/\" target=\"_blank\">WooCommerce</a> plugin."
+msgstr ""
+
+msgid "Short name of the store. Max 20 characters."
+msgstr ""
+
+msgid ""
+"Full name of the company owning the store. Not published, used for internal "
+"identification."
+msgstr ""
+
+msgid "If there is no description, a title will be inserted."
+msgstr ""
+
+msgid "The possibility of buying goods without reservation in the sales area."
+msgstr ""
+
+msgid ""
+"Possibility of self-delivery of goods from points of delivery (in all "
+"regions to which the store delivers)."
+msgstr ""
+
+msgid ""
+"Possibility of courier delivery of goods (in all regions to which the store "
+"delivers)."
+msgstr ""
+
+msgid "Currency of the store."
+msgstr ""
+
+msgid "Store name"
+msgstr ""
+
+msgid "Company name"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Store"
+msgstr ""
+
+msgid "Pickup"
+msgstr ""
+
+msgid "Delivery"
+msgstr ""
+
+msgid "Currency"
+msgstr ""
+
+msgid "YML is successfully generated"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "Post content"
+msgstr ""
+
+msgid "Excerpt"
+msgstr ""
+
+msgid "Russian ruble"
+msgstr ""
+
+msgid "Ukrainian hryvnia"
+msgstr ""
+
+msgid "Belarusian ruble"
+msgstr ""
+
+msgid "Something went wrong."
+msgstr ""

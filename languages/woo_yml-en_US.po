@@ -1,0 +1,120 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YML Turbo Pages for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-09 09:35+0000\n"
+"PO-Revision-Date: 2019-10-12 20:57+0000\n"
+"Last-Translator: glight <webgleb@gmail.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.3"
+
+#. Name of the plugin
+msgid "YML Turbo Pages for WooCommerce"
+msgstr "YML Turbo Pages for WooCommerce"
+
+#. Description of the plugin
+msgid "The plugin generates the YML file necessary for Yandex services."
+msgstr "The plugin generates the YML file necessary for Yandex services."
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://treustrasse.ru/"
+msgstr "http://treustrasse.ru/"
+
+#. Author of the plugin
+msgid "Gleb Varganov"
+msgstr "Gleb Varganov"
+
+msgid ""
+"For export you need to install <a href=\"https://wordpress."
+"org/plugins/woocommerce/\" target=\"_blank\">WooCommerce</a> plugin."
+msgstr ""
+"For export you need to install <a href=\"https://wordpress."
+"org/plugins/woocommerce/\" target=\"_blank\">WooCommerce</a> plugin."
+
+msgid "Short name of the store. Max 20 characters."
+msgstr "Short name of the store. Max 20 characters."
+
+msgid ""
+"Full name of the company owning the store. Not published, used for internal "
+"identification."
+msgstr ""
+"Full name of the company owning the store. Not published, used for internal "
+"identification."
+
+msgid "If there is no description, a title will be inserted."
+msgstr "If there is no description, a title will be inserted."
+
+msgid "The possibility of buying goods without reservation in the sales area."
+msgstr "The possibility of buying goods without reservation in the sales area."
+
+msgid ""
+"Possibility of self-delivery of goods from points of delivery (in all "
+"regions to which the store delivers)."
+msgstr ""
+"Possibility of self-delivery of goods from points of delivery (in all "
+"regions to which the store delivers)."
+
+msgid ""
+"Possibility of courier delivery of goods (in all regions to which the store "
+"delivers)."
+msgstr ""
+"Possibility of courier delivery of goods (in all regions to which the store "
+"delivers)."
+
+msgid "Currency of the store."
+msgstr "Currency of the store."
+
+msgid "Store name"
+msgstr "Store name"
+
+msgid "Company name"
+msgstr "Company name"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Store"
+msgstr "Store"
+
+msgid "Pickup"
+msgstr "Pickup"
+
+msgid "Delivery"
+msgstr "Delivery"
+
+msgid "Currency"
+msgstr "Currency"
+
+msgid "YML is successfully generated"
+msgstr "YML is successfully generated"
+
+msgid "Yes"
+msgstr "Yes"
+
+msgid "No"
+msgstr "No"
+
+msgid "Post content"
+msgstr "Post content"
+
+msgid "Excerpt"
+msgstr "Excerpt"
+
+msgid "Russian ruble"
+msgstr "Russian ruble"
+
+msgid "Ukrainian hryvnia"
+msgstr "Ukrainian hryvnia"
+
+msgid "Belarusian ruble"
+msgstr "Belarusian ruble"
+
+msgid "Something went wrong."
+msgstr "Something went wrong."
